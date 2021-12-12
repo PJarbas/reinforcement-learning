@@ -21,3 +21,6 @@ reinforcement-learnig materials
 
 ### Tools
 * https://neptune.ai/blog/the-best-tools-for-reinforcement-learning-in-python 
+
+### Tensortrade
+* https://github.com/tensortrade-org/tensortrade
