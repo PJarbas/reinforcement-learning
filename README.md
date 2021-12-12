@@ -24,3 +24,6 @@ reinforcement-learnig materials
 
 ### Tensortrade
 * https://github.com/tensortrade-org/tensortrade
+
+### Baselines implementations
+* https://github.com/DLR-RM/rl-baselines3-zoo (pytorch)
