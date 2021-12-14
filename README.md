@@ -27,3 +27,6 @@ reinforcement-learnig materials
 
 ### Baselines implementations
 * https://github.com/DLR-RM/rl-baselines3-zoo (pytorch)
+
+### Couse DRL
+* https://cmudeeprl.github.io/403_website/lectures/
