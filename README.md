@@ -1,5 +1,4 @@
-# reinforcement-learnig
-reinforcement-learnig materials
+# reinforcement-learning
 
 ### Intro RLlib
 * https://www.anyscale.com/blog/an-introduction-to-reinforcement-learning-with-openai-gym-rllib-and-google
